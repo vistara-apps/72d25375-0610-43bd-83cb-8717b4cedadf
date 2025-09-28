@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Creator Chain Studio",
+    "subtitle": "Built with Zara",
+    "description": "Creator Chain Studio is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://72d25375061043bd83cb8717b4cedadf-ion2.vercel.app",
+    "splashImageUrl": "https://72d25375061043bd83cb8717b4cedadf-ion2.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://72d25375061043bd83cb8717b4cedadf-ion2.vercel.app/image.png",
+    "tagline": "Creator Chain Studio",
+    "screenshotUrls": [
+      "https://72d25375061043bd83cb8717b4cedadf-ion2.vercel.app/screenshot.png",
+      "https://72d25375061043bd83cb8717b4cedadf-ion2.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://72d25375061043bd83cb8717b4cedadf-ion2.vercel.app/api/webhook"
+  }
+}
